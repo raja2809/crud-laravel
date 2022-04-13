@@ -7,7 +7,7 @@
     </div>
     @endif
     
-<h3>Silalah Booking Kawan</h3>
+<h3>Silalah Booking Awal</h3>
 <form action="{{route('booking.store')}}" method="post">
     @csrf
     Nama
